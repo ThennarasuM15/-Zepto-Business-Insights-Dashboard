@@ -1,4 +1,4 @@
-# 📦 Zepto Sales & Returns Dashboard | Power BI Project
+# 📦 Zepto Business Insights Dashboard | Power BI Project
 
 ## 🔍 Overview
 
